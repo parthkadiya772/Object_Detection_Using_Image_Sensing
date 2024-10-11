@@ -1,2 +1,3 @@
-# Object_Detection_Using_Image_Sensing
- 
+Object detection is a crucial aspect of computer vision, enabling machines to identify and locate objects within images or video streams. In this project, we utilize image sensing techniques to develop a robust object detection system using the OpenCV library. OpenCV (Open Source Computer Vision Library) provides an extensive set of tools for image processing, including features like contour detection, edge detection, and machine learning-based methods.
+
+The primary goal of this project is to detect and classify objects in real-time from images captured by a camera. This system can have applications in various fields, such as autonomous vehicles, security systems, industrial automation, and more. By leveraging OpenCV’s powerful image processing algorithms, we aim to build a system capable of detecting objects with high accuracy and efficiency.
